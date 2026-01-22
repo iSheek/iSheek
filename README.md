@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔢 Age: 21
+- 💭 Currently learning: .NET, OpenGL
+- ❗ Professional status: CE Student
+- 🔴 Nationality: Polish
