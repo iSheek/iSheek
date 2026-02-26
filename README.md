@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔢 Age: 21
+- 🔢 Age: 22
 - 💭 Currently learning: .NET, OpenGL
 - ❗ Professional status: CE Student
 - 🔴 Nationality: Polish
