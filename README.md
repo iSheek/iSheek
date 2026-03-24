@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 
 - 🔢 Age: 22
-- 💭 Currently learning: .NET, OpenGL
+- 💭 Currently learning: .NET, OpenGL, 
 - ❗ Professional status: CS Student
 - 🔴 Nationality: Polish
+
+- ‼️Currently: mastering modern C++ knowledge
